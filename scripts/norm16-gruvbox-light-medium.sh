@@ -27,9 +27,9 @@ color15="3c/38/36" # dark1
 color16="d6/5d/0e" # neutral_orange
 color17="af/3a/03" # faded_orange
 
-color18="eb/db/b2" # light1
-color19="d5/c4/a1" # light2
-color20="bd/ae/93" # light3
+color18="d5/c4/a1" # light2
+color19="bd/ae/93" # light3
+color20="a8/99/84" # light4
 color21="66/5c/54" # dark3
 
 if [ -n "$TMUX" ]; then
